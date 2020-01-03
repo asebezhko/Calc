@@ -1,6 +1,5 @@
-# Calc
+# KOTLIN
 
-ЕСЛИ ОНО ЗАРАБОТАЕТ
-Я БУДУ ОЧЕНЬ ДОВОЛЬНА.
+If it works, it works.
 
-Мой первый проект на Котлине.
+My long time progress in learning Kotlin is presented here.
